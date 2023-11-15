@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me emmanuelescat@gmail.com
+- 👋 Bonjour, je suis Emmanuel
+- 👀 Je m'intéresse à la cybersécurité
+- 🌱 Je suis actuellement étudiant au CNAM et bientôt à la Wild Code School pour une formation en alternance d'Administrateur d'Infrastructures Sécurisées
+- 📫 Vous pouvez me joindre à l'adresse suivante emmanuelescat@gmail.com
 
 <!---
 manuescat/manuescat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

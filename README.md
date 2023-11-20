@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suisis Emmanuel</h1>
+<h1 align="center">👋 Bonjour, je suis Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Je m'intéresse à **la cybersécurité**
